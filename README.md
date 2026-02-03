@@ -1,7 +1,9 @@
 # Likelion_Team_7
 Test Repo for Team Activity
 
-
+# 장태민 | Unity Client Programmer
+구조적으로 비교적 안정적인 프로그래밍을 목표로 공부하고있습니다.
+프로그래밍을 제대로 배우는것은 이번이 처음이라 잘 하지는 못하지만 잘 부탁드립니다.
 
 # 박문유 | Unity Client Programmer
 쉽고 직관적인 2d game을 개발합니다
