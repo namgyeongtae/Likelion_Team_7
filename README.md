@@ -1,6 +1,12 @@
 # Likelion_Team_7
 Test Repo for Team Activity
 
+
+
+# 박문유 | Unity Client Programmer
+쉽고 직관적인 2d game을 개발합니다
+
+
 # 고은영 | Unity Client Programmer
 재밌는 게임을 만들고 싶습니다
 
