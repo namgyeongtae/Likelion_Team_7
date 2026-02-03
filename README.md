@@ -11,8 +11,8 @@ Test Repo for Team Activity
 재밌는 게임을 만들고 싶습니다
 
 
-# 김성현
-TEST
+# 김성현 | Unity Developer
+좋은 개발자가 되기 위해 열심히 공부 중입니다.
 
 # 송재현 | Unity Developer
 Unity 클라이언트 개발자가 되고 싶은 사람입니다.
