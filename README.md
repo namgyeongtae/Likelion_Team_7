@@ -6,7 +6,7 @@ Unity 클라이언트 개발자가 되고 싶은 사람입니다.
 현재 OOP와 자료구조, 알고리즘 공부 중입니다.
 
 ## Released Project
-* **Steam 출시작:** [Phase 바로가기](https://store.steampowered.com/search?term=phase)
+* **Steam 출시작:** [Phase 바로가기](https://store.steampowered.com/app/4097670/Phase/)
 
 
 
