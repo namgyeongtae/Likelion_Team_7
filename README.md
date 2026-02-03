@@ -1,6 +1,9 @@
 # Likelion_Team_7
 Test Repo for Team Activity
 
+# 김성현
+TEST
+
 # 송재현 | Unity Developer
 Unity 클라이언트 개발자가 되고 싶은 사람입니다.
 현재 OOP와 자료구조, 알고리즘 공부 중입니다.
